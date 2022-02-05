@@ -30,17 +30,102 @@ Reference Books
 Calendar
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Basic geochemistry & glaciology background |
-| 2 | Specimen characterization with the Electron Microprobe Part 1 |
-| 3 | Specimen characterization with the Electron Microprobe Part 2 |
-| 4 | Toxic pollutants |
-| 5 | Sr Isotope dating |
-| 6 | U/Th/Pb dating |
-| 7 | Anthropogenic Geochemistry |
-| 8 | Inductively Coupled Plasma: Emission and Mass Spectrometry |
-| 9 | Interferences in Inductively Coupled Plasma Mass Spectrometry 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Basic geochemistry & glaciology background
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Specimen characterization with the Electron Microprobe Part 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Specimen characterization with the Electron Microprobe Part 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Toxic pollutants
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Sr Isotope dating
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+U/Th/Pb dating
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Anthropogenic Geochemistry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Inductively Coupled Plasma: Emission and Mass Spectrometry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Interferences in Inductively Coupled Plasma Mass Spectrometry
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
